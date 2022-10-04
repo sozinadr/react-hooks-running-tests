@@ -1,5 +1,4 @@
 # Running Tests in React
-
 ## Learning Goals
 
 - Use Jest to run tests in React applications
